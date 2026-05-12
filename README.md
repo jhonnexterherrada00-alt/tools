@@ -11,7 +11,7 @@ password_generator_v1.0.py
 ## May 12, 2026, 9:23 PM
 alkansya.2.0.py
 
-- This is a simple piggy bank tracker that I made. The data is saved in the phone's storage and you can change the storage or path if you want.
+- This is a simple piggy bank tracker that I made. The data is saved in the phone's storage and you can change the storage or path if you want. Currency "₱" can be replaced.
 # File paths for Storage
 BALANCE_FILE = "/storage/emulated/0/savings.txt"
 HISTORY_FILE = "/storage/emulated/0/savings_history.txt"
